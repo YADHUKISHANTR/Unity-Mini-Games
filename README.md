@@ -1,2 +1,38 @@
+
+⚠️ IMPORTANT NOTICE
+
+This project is shared publicly for portfolio and learning purposes only.
+
+- The source code is NOT open for reuse or redistribution.
+- Publishing this project or any derivative work to app stores is strictly prohibited.
+- All rights are reserved by the author.
+
+If you are a recruiter or reviewer and need additional access or clarification,
+please contact me directly.
 # Unity-Mini-Games
+
+# Description
 A collection of small Unity mini-games and prototypes built to practice gameplay mechanics, UI, and game logic. Some projects are complete, while others are experimental or works in progress.
+
+# Top Games
+1: Frog Hop - A casual arcade game similar to Doodle Jump. Player jumps platform to platfor aiming for high score
+Status: Completed
+Skills Learned: Game loop, input handling, collision detection, score tracking
+Media: [Screenshots and Screen Recordings](https://drive.google.com/drive/folders/1drH0BscVSPH13bDrL6KMWlON60E7IK5P?usp=sharing)
+
+2: Cannon Shoot - Shoot block and destroy them before they reach the ground 
+Status: Completed
+Skills Learned: Projectile mechanics, collision handling,timing,scoring
+Media: [Screenshots and Screen Recordings](https://drive.google.com/drive/folders/1T_z8JP_zugB8Z7fJMnAp0yP1ssfWz3T1?usp=sharing)
+
+3: Worm Game - Classic arcade game of worm eating apple and getting bigger
+Status: Completed
+Skills Learned: Tilemap implementation, Touch Input handling
+Media: [Screenshots and Screen Recordings](https://drive.google.com/drive/folders/1vQjOsBgx5ZHs-c6mRFle8vt9X8-E1ovG?usp=sharing)
+4: Spooderman Pizza Delivery - Swinging and Delivering pizza before time out
+Status: work in progress
+Skills Learned: Verlet Integration, Ragdoll physics, Collision handling, Rope physics
+Media: [Screenshots and Screen Recordings](https://drive.google.com/drive/folders/1uY9UlV3cnZVjPQ9y0kbUoJb9VZTCdha4?usp=sharing)
+
+
+
