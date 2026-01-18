@@ -15,10 +15,10 @@ please contact me directly.
 A collection of small Unity mini-games and prototypes built to practice gameplay mechanics, UI, and game logic. Some projects are complete, while others are experimental or works in progress.
 
 # Top Games
-1: Frog Hop - A casual arcade game similar to Doodle Jump. Player jumps platform to platfor aiming for high score
-Status: Completed
-Skills Learned: Game loop, input handling, collision detection, score tracking
-Media: [Screenshots and Screen Recordings](https://drive.google.com/drive/folders/1drH0BscVSPH13bDrL6KMWlON60E7IK5P?usp=sharing)
+1: Frog Hop - A casual arcade game similar to Doodle Jump. Player jumps platform to platfor aiming for high score.<br>
+Status: Completed.<br>
+Skills Learned: Game loop, input handling, collision detection, score tracking.<br>
+Media: [Screenshots and Screen Recordings](https://drive.google.com/drive/folders/1drH0BscVSPH13bDrL6KMWlON60E7IK5P?usp=sharing).<br>
 
 2: Cannon Shoot - Shoot block and destroy them before they reach the ground.<br>
 Status: Completed.<br>  
