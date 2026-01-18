@@ -32,7 +32,7 @@ Media: [Screenshots and Screen Recordings](https://drive.google.com/drive/folder
 
 4: Spooderman Pizza Delivery - Swinging and Delivering pizza before time out.<br>
 Status: work in progress.<br>
-Skills Learned: Verlet Integration, Ragdoll physics, Collision handling, Rope physics
+Skills Learned: Verlet Integration, Ragdoll physics, Collision handling, Rope physics.<br>
 Media: [Screenshots and Screen Recordings](https://drive.google.com/drive/folders/1uY9UlV3cnZVjPQ9y0kbUoJb9VZTCdha4?usp=sharing).<br>
 
 
